@@ -14,8 +14,8 @@
         <converters:NotConverter x:Key="NotConverter" />
         <converters:VisibilityConverter x:Key="VisibilityConverter" />
         <converters1:NuGetToProjectModeConverter x:Key="NuGetToProjectModeConverter" />
-        <converters1:NotNuGetToProjectModeConverter x:Key="NotNuGetToProjectModeConverter" />
-    </Window.Resources>
+		<converters1:NotNuGetToProjectModeConverter x:Key="NotNuGetToProjectModeConverter" />
+	</Window.Resources>
 
     <Grid DataContext="{StaticResource ViewModel}">
         <TextBlock Text="Please wait..." Margin="8" 
