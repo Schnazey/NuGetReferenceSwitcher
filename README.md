@@ -1,4 +1,6 @@
-I've used this in the past and it is great.  But it didn't have any working support for Visual Studio 2022.  So I took it and fixed it so it works with VS2022 now.
+Updated to work with Visual Studio 2022.  The original project seems to not be supported/maintained, therefore I forked it to fix the VS2022 integration.
+
+A big shoutout to the creator, thanks for creating such a useful tool.
 
 # NuGet Reference Switcher
 
